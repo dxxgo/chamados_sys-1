@@ -7,7 +7,7 @@ Sistema funcional voltado para técnicos de TI registrarem chamados de clientes.
 * gh-pages@4.0.0 - realizar deploy da aplicação no Github Pages;
 * react-icons@4.4.0 - utilização de icons (BoxIcons);
 * react-router-dom@5.3.3 - configuração de rotas da aplicação;
-* react-toastify@9.0.4 - lib voltarada para alertas visuais na aplicação.
+* react-toastify@9.0.4 - lib voltada para alertas visuais na aplicação.
 
 ## Link para utilização
 <a href='https://dxxgo.github.io/chamados_sys/'>Clique aqui</a>
